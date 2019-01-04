@@ -1,0 +1,303 @@
+#EXTM3U
+
+############################## TV ABERTA ################################
+                             
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SBT.png" tvg-id="0" group-title="TV",SBT
+http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/chunklist_w624504744_b396000.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/sgImkpU.jpg" group-title="TV",- REDETV
+http://evpp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8?FORMIGAtv
+
+#EXTINF:0 tvg-logo="https://goo.gl/fu82rk" group-title="TV",REDE TV HD
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1096797278.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/atividade.png" group-title="TV",TV Cultura 
+https://59f1cbe63db89.streamlock.net:1443/redeatividade/redeatividade/playlist.m3u8
+
+#EXTINF:0,CATVE HD
+http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV Gazeta [Brazil]" tvg-logo="http://i.imgur.com/Or3Q4WA.png" group-title="TV",TV Gazeta HD 
+http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:0, TV BRASIL 
+http://stream2.ba.gov.br:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/s20.postimg.org/lgw1ti6jx/TV_Brasil.png" group-title="TV", TVE Bahia - TV Brasil
+http://stream2.ba.gov.br:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="REDE BRASIL®" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/37/Logo_Rede_Brasil.png" group-title="TV",REDE BRASIL®
+http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8?CANAISGLAU
+
+#EXTINF:-1 tvg-logo="https://s15.postimg.io/ri5kwmjvr/tvescola2.png" group-title="TV", Tv Escola
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream1/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/EqJy1rP.png" group-title="TV",Sesc TV HD
+http://api.new.livestream.com/accounts/16991778/events/6670101/live.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/jl02qv2y5/tvfaap.png" group-title="TV",TV FAAP HD 
+http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
+
+
+
+
+############################# ESPORTE #############################
+
+#EXTINF:0,ALL SPORTS
+http://tv01.logicahost.com.br:1935/dgrau/dgrau/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/fmqm1c.jpg",TV REAL MADRID
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+
+
+################################ INFANTIL #############################
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="INFANTIL",GOSPEL CARTOON
+http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid=495096105
+
+
+############################## RELIGIOSOS ############################
+                         
+#EXTINF:0,REDE SÉCULO 21
+http://tvseculo21-lh.akamaihd.net:80/i/tvseculo_1@16110/index_1200_av-p.m3u8
+
+#EXTINF:-0 tvg-id="TV" tvg-logo="https://imagizer.imageshack.us/v2/94x94q90/c/r/921/RVPncp.png",Canção Nova HD
+http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/master.m3u8
+	
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/UOMWJH6.png" group-title="TV", Tv Aparecida
+http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8?FORMIGATV
+
+#EXTINF:-1 tvg-logo="https://lut.im/nqxxaiqRsh/aPqzUMslWtnGjcyq.png" group-title="MAX - VIEIRA - LISTAS" pltv-subgroup="TV" , Rede Familia HD
+http://srv9.zoeweb.tv:1935/zw901/smil:zw901.smil/playlist.m3u8
+
+#EXTINF:0,REDE EVANGELIZAR
+http://flash1.crossdigital.com.br:1935/evangelizar/tv/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/l2Fy8cv.png" group-title="TV", Rede Super
+http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8?IPTVPLENITUDE
+
+#EXTINF:-1 tvg-logo="" group-title="TV",TV MUNDIAL
+http://58a4464faef53.streamlock.net:1935/impd/impd/live.m3u8?CANALANDRONALTAS
+
+
+#EXTINF:0,TV FÁTIMA
+http://streaming63.sitehosting.com.br:1935/telemaco/telemaco/live.m3u8
+
+
+######################### POLITICO E RURAL ######################
+                      
+#EXTINF:0 tvg-logo="http://i.imgur.com/qmTaflk.png" group-title="TV", TV CAMARA
+http://stream2.camara.gov.br:8134/tv2/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/no1Al0A.png" group-title="TV",  TV CÂMARA HD
+http://stream2.camara.gov.br:80/tv2/manifest.m3u8
+
+#EXTINF:0,TV ALESP
+http://srv3.zoeweb.tv:1935/z93-live/stream/livestream.m3u8
+
+#EXTINF:0,TV ALMG
+http://streaming.almg.gov.br:80/live/tvalmg.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV",Agro Brasil TV
+http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.meionorte.com/assets/logo_tvmeionorte.png" group-title="Canais Abertos",Rede Meio Norte
+http://api.new.livestream.com/accounts/3332377/events/2958396/live.m3u8
+
+#EXTINF:-1 tvg-id="Terra Viva" tvg-logo="http://i.imgur.com/6vBfgpS.png" group-title="TV",Terra Viva
+http://evpp.mm.uol.com.br:1935/band/terraviva/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:0,CANAL SETE
+http://189.51.193.98:8081/canalsete/str3/playlist.m3u8
+
+
+
+################################ CINEMA ################################                                
+
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/001/736/753/original/WhatsApp_Image_2018-11-20_at_10.58.54.jpeg?1542720593" tvg-id=" group-title="TV",CINE+
+http://vm.srvcast.com/tvbrasil/tvbrasil/playlist.m3u8
+
+#EXTINF:0,CLASSIQUE TV
+http://stmv2.euroti.com.br:1935/classique/classique/live.m3u8 
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/4pROafv.png" group-
+title="TV",Cine+
+http://189.86.89.116:80/hls-live/livecm/_definst_/liveevent/livestream.m3u8 
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?
+
+#EXTINF:0,GOSPEL MOVIES TELEVISION
+http://stmv2.euroti.com.br:1935/gospelf/gospelf/live.m3u8
+
+
+######################### WEB TV ################################
+	
+#EXTINF:0,TV ITABUNA
+http://wse7.player.tv.br:1935/acao50/acao50/live.m3u8
+
+#EXTINF:0,TCM 10 HD
+http://cw.tcm10.com.br:80/low/canal10.m3u8
+
+#EXTINF:0,DTTV
+http://streaming63.sitehosting.com.br:1935/tvneponu/tvneponu/live.m3u8
+
+#EXTINF:0,FAMA TV
+http://tv.tvalphanet.com.br:1935/guarufamatv/guarufamatv/live.m3u8
+
+#EXTINF:0,TV A CARA DA BAHIA
+http://hd4.com.br:1935/tvacaradabahia/tvacaradabahia/live.m3u8
+
+#EXTINF:0,TV ARACATI
+http://wse7.player.tv.br:1935/tvaracati/tvaracati/live.m3u8
+
+#EXTINF:0,TV CAXIAS
+http://stmv1.euroti.com.br:1935/caxiashost/caxiashost/live.m3u8
+
+#EXTINF:0,TV CLIMA
+http://stmv1.euroti.com.br:1935/tvcadm/tvcadm/live.m3u8
+
+#EXTINF:0,TV PORTAL DA BAHIA
+http://tv01.logicahost.com.br:1935/tvportal/tvportal/live.m3u8
+
+#EXTINF:0,TV RIO
+http://stmv4.euroti.com.br:1935/tvrio/tvrio/live.m3u8
+
+#EXTINF:0,NOVA PARABA
+http://stmv1.euroti.com.br:1935/tv487/tv487/live.m3u8
+
+
+######################## VIDEO CLIP ###########################                
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/1music.jpg" group-title="TV", 1Music
+http://92.249.129.152/stream/1music.m3u8
+
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/b5fhmu.jpg",RADIO MONTE CARLO TV
+http://fms.105.net:1935/live/rmc1/chunklist_w1660735550.m3u8
+
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/2komyo.jpg",RADIO 105 NETWORK TV
+http://fms.105.net:1935/live/105Test1/playlist.m3u8
+
+#EXTINF:0,REDE NEW
+http://srv3.zoeweb.tv:1935/z474-live/aovivo/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/wbcgep.jpg",DJING 2
+http://www.djing.com/tv/a-01.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV",DIJING CLASSICS HD
+https://www.djing.com/tv/classics.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV",DIJING ANIMATION HD
+https://www.djing.com/tv/animation.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/mtvb.png" group-title="TV", MTV clipes
+http://rtmp.one.by:1200
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/820140219341086720/KxASGHYH_400x400.jpg" group-title="TV", Portla Fox Mix TV
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/chunklist_w1496592366.m3u8
+
+#EXTINF:-1 tvg-logo="http://static.wixstatic.com/media/abaaca_a28903e152894bc088b76979fbf456d9~mv2.png/v1/fill/w_402,h_186,al_c,lg_1/abaaca_a28903e152894bc088b76979fbf456d9~mv2.png" group-title="TV", Rede New 
+http://srv3.zoeweb.tv:1935/z474-live/aovivo/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.firstone.tv/images/logos/cz/RETRO.png" group-title="TV", Retro Music TV 
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8?
+
+#EXTINF:-1 tvg-logo="" group-title="TV",Planeta HD
+http://84.43.207.130/planetahd/planetahd.m3u8?CANALANDRONALTAS
+
+#EXTINF:-1 tvg-logo=""TV",MUZ TV
+http://85.132.78.6:1935/live/muztv.stream/younessiptv.m3u8?CANALANDRONALTAS
+
+#EXTINF:-1 tvg-logo="" group-title="TV",ONE 1 HD
+http://rtmp.one.by:1300
+
+############################### INTERNACIONAL #########################
+                              
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/240px-Deutsche_Welle_symbol_2012.svg.png" group-title="TV",DW NEWS
+http://dwstream4-lh.akamaihd.net:80/i/dwstream4_live@131329/index_1_av-b.m3u8?AndreOid
+
+#EXTINF:-1 tvg-logo="" group-title="TV",BOLIVIA TV
+http://api.new.livestream.com/accounts/10468276/events/3485826/live.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/33ti23a.jpg",CBS NEWS
+http://cbsnewshd-lh.akamaihd.net:80/i/CBSNHD_7@199302/index_1200_av-b.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://foromedios.com/uploads/gallery/album_2/gallery_1163_2_120274.png" group-title="MAX - VIEIRA - LISTAS" pltv-subgroup="TV" ,"Variedades", ARG - Canal 26 
+http://live-edge01.telecentro.net.ar:1935/live/26hd-720/livestream.m3u8
+
+
+
+################################## RADIO ##########################                     
+                                  
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Anos 70 
+http://192.99.150.31:8241/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Anos 80 
+http://192.99.150.31:8697/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Anos 90 
+http://192.99.150.31:8056/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Anos 2000 
+http://6d9a.webradio.upx.net.br:9940/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Axé 
+http://192.99.150.31:8305/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Brega 
+http://192.99.150.31:9007/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Eletrônica 
+http://192.99.150.31:9095/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Forró 
+http://192.99.150.31:9019/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Funk 
+http://192.99.150.31:9089/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Gospel 
+http://192.99.150.31:9101/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Hip Hop 
+http://192.99.150.31:8721/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",HISTORINHA INFANTIL 
+http://192.99.150.31:8371/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Kids 
+http://192.99.150.31:9431/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Jazz 
+http://192.99.150.31:8042/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",MPB 
+http://192.99.150.31:8775/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Rap Nacional 
+http://192.99.150.31:8377/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Reggae 
+http://192.99.150.31:8715/stream?
+
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Rock Clássico 
+http://192.99.150.31:9125/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Românticas 
+http://192.99.150.31:8962/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Sertanejo 
+http://192.99.150.31:9485/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!",Sertanejo Universitário 
+http://192.99.150.31:9191/stream?
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TBKbAm" group-title="Sound!", STUDIO DO AMOR 
+http://192.99.150.31:8962/stream?
+
